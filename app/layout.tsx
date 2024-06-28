@@ -14,8 +14,8 @@ import Unt from "@/public/Unt.jpg";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Badis | Personal Portfolio",
-  description: "Badis Kefi is a full-stack developer with 4 years of experience.",
+  title: "Malek | Personal Portfolio",
+  description: "welcome! Malek Azzouz is a software engineer with one year experience.",
   icon: "/favicon.ico",
   twitter: {
     card: 'summary_large_image',
