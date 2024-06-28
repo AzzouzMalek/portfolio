@@ -65,4 +65,6 @@ export const projectsData = [
 export const skillsData = [
   "SolidWorks",
   "C++",
+  "Labview",
+  "Matlab"
 ] as const;
