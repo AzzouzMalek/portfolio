@@ -22,17 +22,17 @@ export default function About() {
       <p className="mb-3">
         After graduating with a{" "}
         <span className="font-medium">Baccalaureate in technical technology</span>, I decided to pursue my
-        passion for programming. I enrolled in the Higher Institute 
+        passion for technology. I enrolled in the Higher Institute 
       of Technological Studies and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
+        <span className="font-medium">software engnineer</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          C++, javascript, HTML, and CSS
         </span>
-        . I am also familiar with TypeScript and SQL. I am always looking to
+        . I am also familiar with matlab and labview. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
