@@ -6,7 +6,7 @@ import { LuGamepad } from "react-icons/lu";
 
 import AiPromptsImg from "@/public/AiPrompts.png";
 import ThreadsCloneImg from "@/public/ThreadsClone.png";
-import FullPortfolioImg from "@/public/FullPortfolio.png";
+import CaptureImg from "@/public/Capture.png";
 import IslamQuizImg from "@/public/IslamQuiz.png";
 
 
@@ -55,9 +55,9 @@ export const projectsData = [
     description:
       "A fully responsive and dynamically animated portfolio website with modern UI design.",
     tags: ["React", "Next.js", "Tailwind", "Resend", "Framer Motion"],
-    imageUrl: FullPortfolioImg,
+    imageUrl: CaptureImg,
     //url: "https://portfolio-next-js-rho-neon.vercel.app/",
-    url: "https://badis-portfolio.app/"
+    url: "https://malek-azzouz.vercel.app/"
   },
   
 ] as const;
