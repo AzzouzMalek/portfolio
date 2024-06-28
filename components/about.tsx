@@ -35,7 +35,7 @@ export default function About() {
         . I am also familiar with matlab and labview. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
-        developer.
+        engnineer.
       </p>
 
       <p>
