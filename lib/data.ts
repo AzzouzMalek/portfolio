@@ -66,5 +66,8 @@ export const skillsData = [
   "SolidWorks",
   "C++",
   "Labview",
-  "Matlab"
+  "Matlab",
+  "HTML",
+  "CSS",
+  "javascript"
 ] as const;
